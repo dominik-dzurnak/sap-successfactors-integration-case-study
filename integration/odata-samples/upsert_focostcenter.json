@@ -1,0 +1,18 @@
+[
+  {
+    "__metadata": { "uri": "FOCostCenter(externalCode='4100',startDate=datetime'2026-01-01T00:00:00')" },
+    "externalCode": "4100",
+    "startDate": "/Date(1767225600000)/",
+    "name": "Bottling Line 1 Vienna",
+    "status": "A",
+    "cust_CompanyCode": "AT01"
+  },
+  {
+    "__metadata": { "uri": "FOCostCenter(externalCode='4200',startDate=datetime'2026-01-01T00:00:00')" },
+    "externalCode": "4200",
+    "startDate": "/Date(1767225600000)/",
+    "name": "Logistics Hub Prague",
+    "status": "A",
+    "cust_CompanyCode": "CZ01"
+  }
+]

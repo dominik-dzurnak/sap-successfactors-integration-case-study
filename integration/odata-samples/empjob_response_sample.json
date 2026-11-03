@@ -1,0 +1,25 @@
+{
+  "d": {
+    "results": [
+      {
+        "userId": "10045821",
+        "startDate": "/Date(1772323200000)/",
+        "company": "CZ01",
+        "costCenter": "4200",
+        "jobCode": "LOG_OPERATOR",
+        "employeeClass": "2",
+        "lastModifiedDateTime": "/Date(1771929600000+0000)/",
+        "employmentNav": {
+          "personNav": {
+            "personIdExternal": "10045821",
+            "personalInfoNav": {
+              "results": [
+                { "firstName": "Jana", "lastName": "Novakova" }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}
